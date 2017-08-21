@@ -1,0 +1,1 @@
+INSERT INTO Customer (firstname, lastname) VALUES ('lala', 'lala');
